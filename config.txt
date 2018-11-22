@@ -1,7 +1,7 @@
 ?token=NTE0OTQ3MzMxNzU4NjIwNzMz.DteNPg.gQD-wTguZh9Jw6Xxo8rrFz_v2bg 
 owner=419550777468780546 
 prefix= -
-game= 4U soon 100
+game= Server 4U soon 100
 stayinchannel=false
 songinstatus=true 
 token=NTE0OTQ3MzMxNzU4NjIwNzMz.DteNPg.gQD-wTguZh9Jw6Xxo8rrFz_v2bg
